@@ -11,4 +11,7 @@ func main() {
 	fmt.Println("WE Good")
 	myResult := algorithms.TwoSum(myNums, 26)
 	fmt.Println(myResult)
+
+	reversedResult := algorithms.ReverseInteger(455234)
+	fmt.Println(reversedResult)
 }
