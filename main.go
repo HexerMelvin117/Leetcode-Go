@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hexermelvin117/goalgorithms/algorithms"
+	"github.com/HexerMelvin117/Leetcode-Go/algorithms"
 )
 
 func main() {
